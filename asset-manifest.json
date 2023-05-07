@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd33def8.css",
+    "main.js": "/static/js/main.3b6e9e55.js",
+    "static/js/787.a327fa66.chunk.js": "/static/js/787.a327fa66.chunk.js",
+    "static/media/AlexBrush-Regular.ttf": "/static/media/AlexBrush-Regular.b50947ef756f43126a52.ttf",
+    "static/media/band-aid-svgrepo-com.svg": "/static/media/band-aid-svgrepo-com.c9957effe7872258e9c05c2298cec1b5.svg",
+    "static/media/calendar-day-svgrepo-com.svg": "/static/media/calendar-day-svgrepo-com.70787721e328e0c23654404863dbcf65.svg",
+    "static/media/calendar-add-svgrepo-com.svg": "/static/media/calendar-add-svgrepo-com.66bdec202856f60c607450fcf9c60d78.svg",
+    "static/media/home-svgrepo-com.svg": "/static/media/home-svgrepo-com.4aa5ec591b58add641f60a8b8bbc4b89.svg",
+    "index.html": "/index.html",
+    "static/media/chevron-left-svgrepo-com.svg": "/static/media/chevron-left-svgrepo-com.0028f979917653b2f996.svg",
+    "static/media/chevron-right-svgrepo-com.svg": "/static/media/chevron-right-svgrepo-com.02e3fe808eb1fd7bab4f.svg",
+    "static/media/check-svgrepo-com.svg": "/static/media/check-svgrepo-com.8cc5ee93091c4acce9ce.svg",
+    "static/media/cross-svgrepo-com.svg": "/static/media/cross-svgrepo-com.27671b97e638e69cf676.svg",
+    "main.cd33def8.css.map": "/static/css/main.cd33def8.css.map",
+    "main.3b6e9e55.js.map": "/static/js/main.3b6e9e55.js.map",
+    "787.a327fa66.chunk.js.map": "/static/js/787.a327fa66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd33def8.css",
+    "static/js/main.3b6e9e55.js"
+  ]
+}
